@@ -30,7 +30,7 @@ jrd | JRelland but call me José
 Recent practice on YNH for a LUG on Troyes, Tricassinux.org :)
 French. Retired. Non-coder.
 
-Last update 2019/08/05. WTFL licence.
+Last update 2019/08/05. WTFPL licence.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 English above
@@ -65,5 +65,5 @@ jrd | JRelland, ou appelez-moi José
 Pratique récente sur YNH pour un GUL sur Troyes, Tricassinux.org :)
 Français. Retraité. Non-codeur.
 
-Mise à jour 2019/08/05.
+Mise à jour 2019/08/05. WTFPL license
 
