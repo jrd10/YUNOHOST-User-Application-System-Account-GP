@@ -55,5 +55,5 @@ Next step :
 Thank you for your contribution.
 Please note I am not at ease with GitHub. If you think your comment does not reach me, contact me through the YUNOHOST forum: https://forum.yunohost.org/.
 
-JRelland.
+JRelland. 2019/08/06
 
