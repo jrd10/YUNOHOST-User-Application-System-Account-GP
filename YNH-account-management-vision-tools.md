@@ -16,13 +16,14 @@ this sketch which give you a first idea of the accounts management (even if this
 The list below takes account of the (1)application administration and (2) the administration of the hardware/VPS where the YNH has been installed.
 
 Extended list of access rights in YUNOHOST:
-1. Visitor,
-2. YNH user
-3. YNH Application administrator
-4. YNH superuser (the first user)
+1. Visitor, 
+2. YNH user,
+3. YNH application user/admin (not declared in YNH but in the application (e.g. Wordpress, Next Cloud)
+4. YNH Application administrator (declared in the YNH application during the installation process)
+5. YNH superuser (the first user)
 5. YUNOHOST administrator
-6. Root admin
-7. Hardware/VPS admin administrator
+6. Root admin (Debian serveur)
+7. Hardware/VPS host admin administrator
 
 Even if some of these access rights are held by the same user, for instance, the three last, this must be very clear for all the organization.
 Here, the "YNH application administrator" has been differentiated from a "basic user" as this account could be a generic account (not recommended).
