@@ -56,5 +56,8 @@ Next step :
 Thank you for your contribution.
 Please note I am not at ease with GitHub. If you think your comment does not reach me, contact me through the YUNOHOST forum: https://forum.yunohost.org/.
 
-JRelland. 2019/08/06
+JRelland. jrd or José
+Update, 20190811, from an exchange with ljf at the YNH camp 2019
+Creation, 2019/08/06
+
 
